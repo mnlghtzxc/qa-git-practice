@@ -6,3 +6,4 @@
 
 ## Pull Request workflow
 
+## Conflict Test: Version 2
